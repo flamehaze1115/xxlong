@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the University of Hong Kong under the supervision of [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). Before starting my PhD, I obtained a Bachelor's Degree in the Department of Control Science and Engineering in Zhejiang University in 2014. My research interests include depth estimation, 3D reconstructions, etc.
+I am a Ph.D. student in the University of Hong Kong under the supervision of [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). Before starting my PhD, I obtained a Bachelor's Degree in the Department of Control Science and Engineering in Zhejiang University in 2018. My research interests include depth estimation, 3D reconstructions, etc.
