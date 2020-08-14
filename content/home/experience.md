@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Hong Kong, China"
   date_start = "2018-09-01"
   date_end = ""
-  description = """
-  """
+  description = ""
 
 [[experience]]
   title = "BSc"
@@ -34,6 +33,6 @@ date_format = "Jan 2006"
   location = "Hangzhou, Zhejiang, China"
   date_start = "2014-09-01"
   date_end = "2018-06-31"
-  description = """"""
+  description = ""
 
 +++
