@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: The University of Hong Kong
-    year: 2018
+    year: 2018~now
   - course: BSc in Control Science and Engineering
     institution: Zhejiang University
-    year: 2014
+    year: 2014~2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
