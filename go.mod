@@ -1,4 +1,4 @@
-module github.com/flamehaze1115/xxlong
+module github.com/wowchemy/starter-academic
 
 go 1.15
 
