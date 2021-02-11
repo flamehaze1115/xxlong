@@ -25,7 +25,7 @@ abstract: We present a new learning-based method for multi-frame depth estimatio
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Papers
 featured: true
 
 links:
@@ -41,7 +41,7 @@ url_code: 'https://github.com/xxlong0/CNMNet'
 #url_video: '#'
 
 header:
-  image: "static/media/headers/long2020occlusion.png"
+  image: "headers/long2020occlusion.png"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -66,10 +66,3 @@ header:
 #slides: example
 ---
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
