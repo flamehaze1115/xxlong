@@ -2,7 +2,9 @@
 title: "Occlusion-aware depth estimation with adaptive normal constraints"
 authors:
 - admin
-- Lingjie Liu, Christian Theobalt, Wenping Wang
+- [Lingjie Liu](https://lingjie0206.github.io/)
+- [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/)
+- [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping)
 date: "2020-11-05T00:00:00Z"
 doi: "https://doi.org/10.1007/978-3-030-58545-7_37"
 
