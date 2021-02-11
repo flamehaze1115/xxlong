@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Long Xiaoxiao
+title: Xiaoxiao Long
 
 # Username (this should match the folder name)
 authors:
