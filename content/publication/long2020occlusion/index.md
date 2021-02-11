@@ -44,7 +44,7 @@ url_code: 'https://github.com/xxlong0/CNMNet'
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   #caption: 'Image credit: [**Unsplash**](featured.png)'
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
