@@ -2,10 +2,10 @@
 title: "Multi-view Depth Estimation using Epipolar Spatio-Temporal Network"
 authors:
 - admin
-- [Lingjie Liu](https://lingjie0206.github.io/)
-- Wei Li
-- [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/)
-- [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping)
+#- [Lingjie Liu](https://lingjie0206.github.io/)
+#- Wei Li
+#- [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/)
+#- [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping)
 date: "2020-12-05T00:00:00Z"
 #doi: ""
 
