@@ -29,7 +29,7 @@ summary: Our method achieves temporally coherent depth estimation results by usi
 
 tags:
 - Papers
-featured: False
+featured: True
 
 links:
 - name: Project page
