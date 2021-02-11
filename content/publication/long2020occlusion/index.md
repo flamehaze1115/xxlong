@@ -40,12 +40,15 @@ url_code: 'https://github.com/xxlong0/CNMNet'
 #url_source: '#'
 #url_video: '#'
 
+header:
+  image: "static/media/headers/long2020occlusion.png"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
+#image:
   #caption: 'Image credit: [**Unsplash**](featured.png)'
-  focal_point: "Smart"
-  preview_only: false
+#  focal_point: "Smart"
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
