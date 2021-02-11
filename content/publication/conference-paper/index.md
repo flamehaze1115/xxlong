@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Occlusion-aware depth estimation with adaptive normal constraints"
 authors:
 - admin
 - Lingjie Liu, Christian Theobalt, Wenping Wang
@@ -43,7 +43,7 @@ url_code: 'https://github.com/xxlong0/CNMNet'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](featured.png)'
   focal_point: ""
   preview_only: false
 
@@ -52,8 +52,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+#projects:
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,5 +70,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
